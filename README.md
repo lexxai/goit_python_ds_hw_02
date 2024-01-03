@@ -3,7 +3,10 @@
 
 
 ## Підготвка
-[goit_python_ds_lection_02.ipynb](https://colab.research.google.com/drive/1XEm-IO7R9FFtU4rZnMasxUSvg4F1_ret?usp=sharing)
+- [goit_python_ds_lection_02.ipynb](https://colab.research.google.com/drive/1XEm-IO7R9FFtU4rZnMasxUSvg4F1_ret?usp=sharing)
+- [Charts in Colaboratory](https://colab.research.google.com/notebooks/charts.ipynb)
+- [документація бібліотеки matplotlib](https://matplotlib.org/stable/contents.html)
+- [документація бібліотеки seaborn](https://seaborn.pydata.org/)
 
 ## Домашнє завдання
 
