@@ -1,4 +1,6 @@
-# goit_python_ds_hw_02
+# Модуль 2. Знайомство з Pandas, Аналіз файлів, Аналіз датасет c Kaggle.com
+
+#python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #seaborn
 
 
 
