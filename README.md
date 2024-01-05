@@ -161,4 +161,8 @@
 Файл: [Hw2.2.ipynb](Hw2.2.ipynb)
 
 
+### Частина третя: Аналіз датасет c Kaggle.com
+Файл CSV: [kaggle-archive.zip](kaggle-archive.zip)
+
+
 
