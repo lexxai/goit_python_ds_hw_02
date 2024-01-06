@@ -162,6 +162,7 @@
 
 ### Частина третя: Аналіз датасет c Kaggle.com
 Файл CSV: [kaggle-archive.zip](kaggle-archive.zip)
+
 Файл: [Hw2.3.ipynb](Hw2.3.ipynb)
 
 
