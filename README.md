@@ -160,9 +160,8 @@
 ### Частина друга: Аналіз файлів.
 Файл: [Hw2.2.ipynb](Hw2.2.ipynb)
 
-
 ### Частина третя: Аналіз датасет c Kaggle.com
 Файл CSV: [kaggle-archive.zip](kaggle-archive.zip)
-
+Файл: [Hw2.3.ipynb](Hw2.3.ipynb)
 
 
