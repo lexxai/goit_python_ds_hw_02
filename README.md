@@ -157,12 +157,21 @@
 ### Частина перша: Знайомство з Pandas.
 Файл: [Hw2.1.ipynb](Hw2.1.ipynb)
 
+![Без назви-1](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/2f6b4d51-ce09-40dc-8d3a-62bf2ee663fa)
+
+
 ### Частина друга: Аналіз файлів.
 Файл: [Hw2.2.ipynb](Hw2.2.ipynb)
+
+![Без назви](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/f6b85442-01a9-4ab4-b527-fb8fd9226272)
+
 
 ### Частина третя: Аналіз датасет c Kaggle.com
 Файл CSV: [kaggle-archive.zip](kaggle-archive.zip)
 
 Файл: [Hw2.3.ipynb](Hw2.3.ipynb)
+
+![image](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/c6992450-3f5a-4810-978b-550df0f32c4e)
+
 
 
