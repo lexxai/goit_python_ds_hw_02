@@ -157,7 +157,7 @@
 ### Частина перша: Знайомство з Pandas.
 Файл: [Hw2.1.ipynb](Hw2.1.ipynb)
 
-![Без назви-1](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/2f6b4d51-ce09-40dc-8d3a-62bf2ee663fa)
+![Народжуваність](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/ba9e0de8-deaa-45c8-8bb5-e0eb425e6fe9)
 
 
 ### Частина друга: Аналіз файлів.
@@ -172,6 +172,7 @@
 Файл: [Hw2.3.ipynb](Hw2.3.ipynb)
 
 ![image](https://github.com/lexxai/goit_python_ds_hw_02/assets/3278842/c6992450-3f5a-4810-978b-550df0f32c4e)
+
 
 
 
