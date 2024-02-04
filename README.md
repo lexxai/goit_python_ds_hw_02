@@ -2,7 +2,7 @@
 
 #python #data-science #numpy #numpy-arrays #google-colab #jupyter-nootebook #pandas #matplotlib #seaborn
 
-*З циклу [домшніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
+*З циклу [домашніх завдвнь Python Data Science](https://github.com/lexxai/goit_python_data_sciense_homework).*
 
 ## Підготовка
 - [goit_python_ds_lection_02.ipynb](https://colab.research.google.com/drive/1XEm-IO7R9FFtU4rZnMasxUSvg4F1_ret?usp=sharing)
